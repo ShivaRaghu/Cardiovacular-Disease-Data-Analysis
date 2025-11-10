@@ -1,11 +1,11 @@
-# [Cardiovascular dataset](https://github.com/ShivaRaghu/Cardio) 
+# [Classification Tree Model to predict the health outcome](https://github.com/ShivaRaghu/Cardio) 
 Goal: Design questionnaire to predict mortality by heart failure
 
 Build Classification Tree Model to predict the health outcome
 
 Introduction:Cardiovascular diseases (CVD) which are one of the major cause of death can be prevented by addressing behavioral risk factors such as smoking, and unhealthy diet(high sodium intake). 
-Preexisting conditions such as diabetes, hypertension also increases the risk of CVD. 
-Our goal is to build machine learning models to help early detection and management of CVD.
+Preexisting conditions such as DM, HTN also increases the risk of CVD. 
+Our goal is to build #machine learning models# to help early detection and management of CVD.
 
 Goal: 
 - Perform exploratory data analysis on Cardiovascular diseases (CVD) dataset.
